@@ -16,27 +16,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
     font-weight: 700;
-    line-height: 1.43em;
-}
-
-h1 {
-    font-size: 40px;
-    line-height: 1.28em;
-}
-
-h2 {
-    font-size: 30px;
-}
-
-h3 {
-    font-weight: 500;
-    font-size: 25px;
-    letter-spacing: 0.05em;
-}
-
-h4 {
-    font-weight: 500;
-    font-size: 20px;
 }
 
 p {
